@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "data_version": "2026.10.17",
+  "updated_at": "2026-10-17T01:15:40Z",
+  "styles_count": 331,
+  "layouts_count": 166,
+  "colors_count": 36,
+  "tones_count": 16,
+  "partners_count": 4,
+  "data_urls": {
+    "styles": "https://static.handraw-style.com/data/styles.json",
+    "layouts": "https://static.handraw-style.com/data/layouts.json",
+    "colors": "https://static.handraw-style.com/data/colors.json",
+    "tones": "https://static.handraw-style.com/data/tones.json",
+    "partners": "https://static.handraw-style.com/data/partners.json"
+  },
+  "images_base_url": "https://img.handraw-style.com/images/"
+}
